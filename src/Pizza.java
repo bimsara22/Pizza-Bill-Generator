@@ -15,7 +15,7 @@ public class Pizza {
     public Pizza(Boolean veg) {
         this.veg = veg;
         if (this.veg){
-            this.price=300;
+            this.price=320;
         }else {
             this.price=400;
         }
